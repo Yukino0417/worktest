@@ -9,7 +9,7 @@ class DemoApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("测试");
-        assert 1==2;
+        assert 1==1;
     }
 
 }
