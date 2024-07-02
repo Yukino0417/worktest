@@ -10,6 +10,7 @@ class DemoApplicationTests {
     void contextLoads() {
         System.out.println("测试");
         assert 1==1;
+        System.out.println("hotfix");
     }
 
 }
